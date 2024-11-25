@@ -1,0 +1,6 @@
+pandas
+tensorflow
+keras
+numpy
+streamlit
+scikit-learn==1.5.1
