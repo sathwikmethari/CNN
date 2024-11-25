@@ -16,7 +16,7 @@ def load_model():
     return cnn  
 
 cnn=load_model()
-st.title("CNN-APP")
+st.title("CNN-APP(needs some polishing)")
 col1, col2 = st.columns(2)
 with col1:
     uploaded_file = st.file_uploader("Choose a file")
